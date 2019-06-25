@@ -1,6 +1,6 @@
 id=FaceUnlockForAndroidOreo
 name=Face Unlock for Android 8.1.0 "Oreo"
-version=v1.1 (2019.05.14)
-versionCode=11
+version=v1.2 (2019.06.25)
+versionCode=12
 author=DqrKn3Zz
 description=This module give you the Face Unlock/Trusted Face of Google (Extracted from OpenGapps Nano package).
